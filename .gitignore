@@ -1,0 +1,7 @@
+build/
+*.nes
+*.pal
+smbc.conf
+
+# Project exclude paths
+/cmake-build-debug/
